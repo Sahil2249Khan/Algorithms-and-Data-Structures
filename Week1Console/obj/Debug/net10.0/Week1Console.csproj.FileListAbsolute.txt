@@ -12,3 +12,4 @@
 /Users/sssk29/Documents/Algorithms and Data Structures/Week1Console/obj/Debug/net10.0/Week1Console.pdb
 /Users/sssk29/Documents/Algorithms and Data Structures/Week1Console/obj/Debug/net10.0/Week1Console.genruntimeconfig.cache
 /Users/sssk29/Documents/Algorithms and Data Structures/Week1Console/obj/Debug/net10.0/ref/Week1Console.dll
+/Users/sssk29/Documents/Algorithms and Data Structures/Week1Console/obj/Debug/net10.0/Week1Console.sourcelink.json
