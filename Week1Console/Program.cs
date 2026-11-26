@@ -13,12 +13,12 @@
     input = Console.ReadLine();
     num2 = Convert.ToInt32(input);
 
-    Console.WriteLine("Sum is: {0}", Sum(num1, num2));
+    Console.WriteLine("Product is: {0}", Product(num1, num2));
     Console.ReadKey();
 }     
-static int Sum(int x, int y)
+static int Product(int x, int y)
     {
-        return x + y;
+        return x * y;
     }
 
 }
